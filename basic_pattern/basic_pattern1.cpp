@@ -457,7 +457,7 @@ int main()
 {
 
     cout << "hello world" << endl;
-    p21();
+    p10();
     
 
     return 0;
